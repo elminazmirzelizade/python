@@ -1,0 +1,4 @@
+Fuad Backend 3800 120
+Elminaz FrontEnd 2500 60
+Vasif FullStack 5000 100
+Asif DevOps 3500 200  
